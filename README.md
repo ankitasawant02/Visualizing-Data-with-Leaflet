@@ -7,3 +7,8 @@ The USGS is interested in building a new set of tools that will allow them visua
 # Your Task
 
 # Level 1: Basic Visualization
+<img width="896" alt="Screen Shot 2019-08-23 at 11 08 08 AM" src="https://user-images.githubusercontent.com/49076702/63613766-5696cb00-c596-11e9-948e-90fb9f825c41.png">
+
+Your first task is to visualize an earthquake data set.
+
+1) Get your data set
