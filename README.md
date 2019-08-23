@@ -1,4 +1,4 @@
-Note: Before running the index.html file, be sure to add your API key to the config.js file located in static/js file path.
+# Note: Before running the index.html file, be sure to add your API key to the config.js file located in static/js file path.
 
 # Visualizing-Data-with-Leaflet
 
